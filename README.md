@@ -62,4 +62,4 @@ So much why the heck isn't there a better solution for this?<p>
 <p>If you have suggestions, please share them!</p>
 <p>The idea here is to create a tool that can set up for any television show's needs, big or small.</p>
 <hr>
-_<h1>Happy Editing!</h1>_
+<h1>Happy Editing!</h1>
