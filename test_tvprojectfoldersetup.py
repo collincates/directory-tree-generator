@@ -4,7 +4,7 @@ from unittest.mock import patch
 import os
 import shutil
 
-from directorytreegenerator import DirectoryStructure, folder_names
+from tvprojectfoldersetup import DirectoryStructure, folder_names
 
 
 class DirectoryStructureTest(unittest.TestCase):
