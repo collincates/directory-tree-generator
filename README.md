@@ -1,5 +1,5 @@
 __<h1>Television Post-Production Project Folder Maker</h1>__
-<h4>A command-line application for managers who want to quickly set up shop.</h4>
+<h4>A command-line app for post-production managers who want to quickly set up shop.</h4>
 <hr>
 <p>It's a big pain to manually re-create your project folder every time you start a new TV show.</p>
 <p>So much copying and pasting. So much episode/season re-numbering.</p>
@@ -57,3 +57,9 @@ So much why the heck isn't there a better solution for this?<p>
 <br>
 <p>*Should you need custom folder names, you can create them during Step 4.</p>
 <hr>
+<h4>Feedback</h4>
+<br>
+<p>If you have suggestions, please share them!</p>
+<p>The idea here is to create a tool that can set up for any television show's needs, big or small.</p>
+<hr>
+__<h1>Happy Editing!</h1>__
